@@ -1,0 +1,69 @@
+Bonjour,
+At first in French, after my configuration in English below.
+Après avoir lu l’aide de Fontmatrix, il est indiqué dans la rubrique :
+Reporting bugs and requesting features
+You can submit bugs reports to our bugtracker (no need to register). Don’t worry about the "Undertype" name, as Fontmatrix originally belonged to this bigger project.
+
+Or le lien 
+https://gna.org/bugs/?func=additem&group=undertype
+vers le bugtracker ne fonctionne pas.
+
+Je me trouve dans une situation embarrassante.
+J’ai installé Fontmatrix et sous Debian 11, il a répertorié presque toutes les polices dans le tag "system fonts".
+J’ai créé mes premiers groupes (tag) et ne voulant que quelques groupes actifs, j’ai tout désactivé avec la perspective d’activer les polices que j’utilise.
+La désactivation a bien fonctionné, mais l’activation de mes groupes de polices ne fonctionne pas.
+
+J’ai essayer de réactiver la totalité et, là aussi, rien ne s’active.
+Ce qui fait que sous Libre Office Writer, je n’ai que des polices « .ttc ».
+
+Ces polices n’apparaissant pas dans les polices systèmes, elles n’ont donc pas été affectées par Fontmatrix.
+
+Vous trouverez ci après ma configuration.
+
+En espérant que vous me répondrez au moins pour m’orienter vers un lieu de discussion si possible en français.
+Cassis
+
+
+= - = - = - =
+Ma configuration :
+Distribution Debian 11 Bulseye
+Version de KDE Plasma : 5.20.5
+Version de KDE Framework : 5.78.0
+Version de QT : 8.15.2
+Version du noyau : 5.10.0-10-amd64
+
+Processeur : 4xintel core I5-6400 CPU 2,70 GHz
+Mémoire physique : 7,7 Gio de mémoire vive
+Mémoire d’échange : 15,26 Gio
+Processeur graphique : mesa Intel HD Graphics 530
+
+HD 1 : ST1000DM003-1ER162
+BUS : SATA
+
+HD 2 : ST1000DM003-1SB102
+BUS : SATA
+= - = - = - =
+
+Hello,
+After reading the Fontmatrix help, it is indicated in the :
+Reporting bugs and requesting features
+You can submit bugs reports to our bugtracker (no need to register). Don’t worry about the "Undertype" name, as Fontmatrix originally belonged to this bigger project.
+
+Now the link 
+https://gna.org/bugs/?func=additem&group=undertype
+to the bugtracker does not work.
+
+I am in an embarrassing situation.
+I installed Fontmatrix and under Debian 11, it listed almost all fonts in the "system fonts" tag.
+I created my first groups (tag) and wanting only a few active groups, I disabled everything with the prospect of enabling the fonts I use.
+Deactivation worked fine, but activating my font groups doesn't work.
+
+I tried to reactivate all of them and, again, nothing activates.
+This means that in Libre Office Writer, I only have ".ttc" fonts.
+
+These fonts do not appear in the system fonts, so they have not been affected by Fontmatrix.
+
+You will find hereafter my configuration.
+
+Hoping that you will answer me at least to direct me towards a place of discussion if possible in French.
+Cassis
